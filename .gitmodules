@@ -1,0 +1,6 @@
+[submodule "LocalOsmosis"]
+	path = LocalOsmosis
+	url = git@github.com:osmosis-labs/LocalOsmosis.git
+[submodule "cw-plus"]
+	path = cw-plus
+	url = git@github.com:CosmWasm/cw-plus.git

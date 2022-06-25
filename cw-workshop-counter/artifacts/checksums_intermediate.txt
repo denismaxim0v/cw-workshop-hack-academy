@@ -1,0 +1,1 @@
+821c83b785ca3fd2c9cb70dcc4942546f33a1879fd24a4aa21e4c04e6883bef1  ./target/wasm32-unknown-unknown/release/cw_workshop_counter.wasm
