@@ -81,9 +81,9 @@ osmosisd query wasm contract-state smart osmo1nc5tatafv6eyq7llkr2gv50ff9e22mnf70
 ```
 
 # Resources
- - [Cosmos Academy]("https://cosmos-network.gitbooks.io/cosmos-academy/content/")
- - [CosmWasm docs]("https://docs.cosmwasm.com/docs/1.0/")
- - [Cosmos SDK]("https://docs.cosmos.network/master/intro/overview.html")
- - [Map of zones]("https://mapofzones.com/?testnet=false&period=24&tableOrderBy=ibcVolume&tableOrderSort=desc")
- - [SecretNetwork]("https://scrt.network/developers")
- - [Fadroma]("https://github.com/hackbg/fadroma")
+ - [Cosmos Academy](https://cosmos-network.gitbooks.io/cosmos-academy/content/)
+ - [CosmWasm docs](https://docs.cosmwasm.com/docs/1.0/)
+ - [Cosmos SDK](https://docs.cosmos.network/master/intro/overview.html)
+ - [Map of zones](https://mapofzones.com/?testnet=false&period=24&tableOrderBy=ibcVolume&tableOrderSort=desc)
+ - [SecretNetwork](https://scrt.network/developers)
+ - [Fadroma](https://github.com/hackbg/fadroma)
